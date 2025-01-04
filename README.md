@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## I'm currently learning in a Computer Engineering degree 💻
+## I'm currently learning coding in a Computer Engineering degree 💻
 ## I'm currently learning different programming languages and frameworks, all belonging to the front-end design of web pages.
 <!--
 **oriol-dt/oriol-dt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
