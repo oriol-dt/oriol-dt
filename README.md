@@ -4,13 +4,15 @@ Currently, I'm looking to enter the exciting world of **Frontend Web Programming
 
 ## 💼 Experience
 
-- **IT Technician** at Sivortex (January 2024 - March 2024)
-- **Helpdesk Operator** at PSS (July 2023 - January 2024)
 - **IT Systems Administrator intern** at IFR Group, S.A.U. (November 2022 - May 2023)
+- **Helpdesk Operator** at PSS (July 2023 - January 2024)
+- **IT Technician** at Sivortex (January 2024 - March 2024)
+
 
 ## 🎓 Education
 
 - **Higher Technician in Network Computer Systems Administration (Cybersecurity)** at Institut Caparrella (September 2021 - May 2023)
+
 - **Degree in Computer Engineering** at Universitat Oberta de Catalunya (September 2024 - Currently)
 
 ## 💻 Technical Skills
