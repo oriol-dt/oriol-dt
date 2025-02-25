@@ -1,42 +1,42 @@
-# ¡Bienvenido a mi perfil! 👋
-¡Hola! Soy **Oriol Dueñas**, un **Técnico de Sistemas / Soporte** con experiencia en el sector.
-¡Actualmente, estoy buscando introducirme en el emocionante mundo de la **Programación Web Frontend** y me encuentro en un **aprendizaje constante** de frameworks modernos y herramientas Cloud! 💻☁️
+# Welcome to my profile! 👋
+Hi! I'm **Oriol Dueñas**, a **Systems Technician / Support** with experience in the sector.
+Currently, I'm looking to enter the exciting world of **Frontend Web Programming** and I'm in a **constant learning** of modern frameworks and Cloud tools! 💻☁️
 
-## 💼 Experiencia
+## 💼 Experience
 
-- **Técnico Informático** en Sivortex (Enero 2024 - Marzo 2024)
-- **Operador de Helpdesk** en PSS (Julio 2023 - Enero 2024)
-- **Administrador de Sistemas de Tl en prácticas** en IFR Group, S.A.U. (Noviembre 2022 - Mayo 2023)
+- **IT Technician** at Sivortex (January 2024 - March 2024)
+- **Helpdesk Operator** at PSS (July 2023 - January 2024)
+- **IT Systems Administrator intern** at IFR Group, S.A.U. (November 2022 - May 2023)
 
-## 🎓 Educación
+## 🎓 Education
 
-- **Técnico Superior en Administración de Sistemas Informáticos en Red (Ciberseguridad)** en Institut Caparrella (Septiembre 2021 - Mayo 2023)
-- **Grado en Ingeniería Informática** en Universitat Oberta de Catalunya (Septiembre 2024 - Actualmente)
+- **Higher Technician in Network Computer Systems Administration (Cybersecurity)** at Institut Caparrella (September 2021 - May 2023)
+- **Degree in Computer Engineering** at Universitat Oberta de Catalunya (September 2024 - Currently)
 
-## 💻 Habilidades Técnicas
+## 💻 Technical Skills
 
-- **Sistemas**: Windows, Ubuntu (Client, Server), Zentyal 🐧
-- **Programación**: Python, HTML, CSS, SQL, PHP, C 🐍
-- **Servicios**: Nginx, Apache, Postfix, Dovecot, Icecast, Active Directory, Bind, RDP 🌐
-- **Redes**: Routers, Switch, AP (Cisco) 📡
-- **Hardware**: Instalación de componentes (CPU, tarjetas gráficas, tarjetas de red) 🛠️
+- **Systems**: Windows, Ubuntu (Client, Server), Zentyal 🐧
+- **Programming**: Python, HTML, CSS, SQL, PHP, C 🐍
+- **Services**: Nginx, Apache, Postfix, Dovecot, Icecast, Active Directory, Bind, RDP 🌐
+- **Networks**: Routers, Switch, AP (Cisco) 📡
+- **Hardware**: Installation of components (CPU, graphics cards, network cards) 🛠️
 
-## 🤝 Habilidades Personales
+## 🤝 Personal Skills
 
-- Trabajo en equipo 🤝
-- Aprendizaje con nuevas herramientas 🛠️
-- Responsabilidad 💼
-- Compromiso con los proyectos 🚀
-- Autonomía 💡
-- Proactividad ⚡
+- Teamwork 🤝
+- Learning with new tools 🛠️
+- Responsibility 💼
+- Commitment to projects 🚀
+- Autonomy 💡
+- Proactivity ⚡
 
-## 🗣️ Idiomas
+## 🗣️ Languages
 
-- Castellano y catalán: Nativo 🗣️
-- Inglés: B1-Intermedio 🇬🇧
+- Spanish and Catalan: Native 🗣️
+- English: B1-Intermediate
 
-## 📬 Contacto
+## 📬 Contact
 
 - 📧 orioldu@hotmail.com
 
-¡No dudes en contactarme si tienes alguna pregunta u oferta! 😊
+Feel free to contact me if you have any questions or offers! 😊
